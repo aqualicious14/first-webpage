@@ -1,0 +1,27 @@
+body{
+    background-color: #EEEEEE;
+}
+#header{
+    background-color : #66CCFF ;
+    color: white;
+    text-align: center;
+}
+
+#container{
+  background-color: white;
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#content{
+  padding: 10px;
+}
+
+#nav{
+  width: 180px;
+}
+
+#main{
+    width:600px;
+}
